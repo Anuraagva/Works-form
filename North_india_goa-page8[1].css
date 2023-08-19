@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.goa-bg-container {
+    padding: 6px;
+}
+
+.goa-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 300;
+    padding: 3px;
+
+}
+
+.goa-paragragh {
+    color: #9aa5b1;
+    font-size: 13px;
+    font-family: "Roboto";
+    padding: 6px;
+}
+
+.more-picture {
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.goa-videos {
+    margin: 10px;
+    height: 25vh;
+    width: 25vh;
+    border-radius: 15px;
+}
+
+.videos {
+    border-radius: 15px;
+}
+
+.goa-videos-cars-container {
+    border-radius: 10px;
+
+}
